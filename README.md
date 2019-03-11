@@ -1,6 +1,7 @@
 # Multi-Inference-GAN
 
 ## Zhanfu Yang, Purdue University
+This is a similation codes I submmited in the paper to the ICML 2019.
 
 ## 3 Domain
 
