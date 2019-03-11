@@ -23,7 +23,7 @@ To Run:
 
 `--dataset_size_x_size` Test Datasets size of the distribution x.
 
-`----load_model' To load the number of model
+`----load_model` To load the number of model
 
 `--gpu_id` The execution of the GPU
 
