@@ -14,9 +14,17 @@ To Run:
 `bash train.sh`
 
 ## 2 Domain Step 1
+To Run:
 
+`cd 2domain_1`
+
+`bash train.sh`
 ## 2 Doamin Step 2
+To Run:
 
+`cd 2domain_2`
+
+`bash train.sh`
 ## Parameters
 
 `--dataset_size_x` Datasets size of the distribution x.
